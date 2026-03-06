@@ -72,6 +72,7 @@ python -m venv myenv
 ### 2. Install dependencies
 
 pip install -r requirements.txt
+if it throws error , install all the libraries manually then it will surely run
 
 
 ### 3. Run Streamlit app
